@@ -1,0 +1,101 @@
+race,driver,team,qualifying_position,circuit,position,points
+Bahrain Grand Prix,Charles Leclerc,Ferrari,1,Bahrain International Circuit,1,26.0
+Bahrain Grand Prix,Max Verstappen,Red Bull,2,Bahrain International Circuit,19,0.0
+Bahrain Grand Prix,Carlos Sainz,Ferrari,3,Bahrain International Circuit,2,18.0
+Bahrain Grand Prix,Sergio Pérez,Red Bull,4,Bahrain International Circuit,18,0.0
+Bahrain Grand Prix,Lewis Hamilton,Mercedes,5,Bahrain International Circuit,3,15.0
+Bahrain Grand Prix,Valtteri Bottas,Alfa Romeo,6,Bahrain International Circuit,6,8.0
+Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,7,Bahrain International Circuit,5,10.0
+Bahrain Grand Prix,Fernando Alonso,Alpine F1 Team,8,Bahrain International Circuit,9,2.0
+Bahrain Grand Prix,George Russell,Mercedes,9,Bahrain International Circuit,4,12.0
+Bahrain Grand Prix,Pierre Gasly,AlphaTauri,10,Bahrain International Circuit,20,0.0
+Bahrain Grand Prix,Esteban Ocon,Alpine F1 Team,11,Bahrain International Circuit,7,6.0
+Bahrain Grand Prix,Mick Schumacher,Haas F1 Team,12,Bahrain International Circuit,11,0.0
+Bahrain Grand Prix,Lando Norris,McLaren,13,Bahrain International Circuit,15,0.0
+Bahrain Grand Prix,Alexander Albon,Williams,14,Bahrain International Circuit,13,0.0
+Bahrain Grand Prix,Guanyu Zhou,Alfa Romeo,15,Bahrain International Circuit,10,1.0
+Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,16,Bahrain International Circuit,8,4.0
+Bahrain Grand Prix,Nico Hülkenberg,Aston Martin,17,Bahrain International Circuit,17,0.0
+Bahrain Grand Prix,Daniel Ricciardo,McLaren,18,Bahrain International Circuit,14,0.0
+Bahrain Grand Prix,Lance Stroll,Aston Martin,19,Bahrain International Circuit,12,0.0
+Bahrain Grand Prix,Nicholas Latifi,Williams,20,Bahrain International Circuit,16,0.0
+Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,1,Jeddah Corniche Circuit,4,12.0
+Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,2,Jeddah Corniche Circuit,2,19.0
+Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,3,Jeddah Corniche Circuit,3,15.0
+Saudi Arabian Grand Prix,Max Verstappen,Red Bull,4,Jeddah Corniche Circuit,1,25.0
+Saudi Arabian Grand Prix,Esteban Ocon,Alpine F1 Team,5,Jeddah Corniche Circuit,6,8.0
+Saudi Arabian Grand Prix,George Russell,Mercedes,6,Jeddah Corniche Circuit,5,10.0
+Saudi Arabian Grand Prix,Fernando Alonso,Alpine F1 Team,7,Jeddah Corniche Circuit,16,0.0
+Saudi Arabian Grand Prix,Valtteri Bottas,Alfa Romeo,8,Jeddah Corniche Circuit,15,0.0
+Saudi Arabian Grand Prix,Pierre Gasly,AlphaTauri,9,Jeddah Corniche Circuit,8,4.0
+Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,10,Jeddah Corniche Circuit,9,2.0
+Saudi Arabian Grand Prix,Lando Norris,McLaren,11,Jeddah Corniche Circuit,7,6.0
+Saudi Arabian Grand Prix,Daniel Ricciardo,McLaren,12,Jeddah Corniche Circuit,17,0.0
+Saudi Arabian Grand Prix,Guanyu Zhou,Alfa Romeo,13,Jeddah Corniche Circuit,11,0.0
+Saudi Arabian Grand Prix,Mick Schumacher,Haas F1 Team,14,Jeddah Corniche Circuit,20,0.0
+Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,15,Jeddah Corniche Circuit,13,0.0
+Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,16,Jeddah Corniche Circuit,10,1.0
+Saudi Arabian Grand Prix,Alexander Albon,Williams,17,Jeddah Corniche Circuit,14,0.0
+Saudi Arabian Grand Prix,Nico Hülkenberg,Aston Martin,18,Jeddah Corniche Circuit,12,0.0
+Saudi Arabian Grand Prix,Nicholas Latifi,Williams,19,Jeddah Corniche Circuit,18,0.0
+Saudi Arabian Grand Prix,Yuki Tsunoda,AlphaTauri,20,Jeddah Corniche Circuit,19,0.0
+Australian Grand Prix,Charles Leclerc,Ferrari,1,Albert Park Grand Prix Circuit,1,26.0
+Australian Grand Prix,Max Verstappen,Red Bull,2,Albert Park Grand Prix Circuit,18,0.0
+Australian Grand Prix,Sergio Pérez,Red Bull,3,Albert Park Grand Prix Circuit,2,18.0
+Australian Grand Prix,Lando Norris,McLaren,4,Albert Park Grand Prix Circuit,5,10.0
+Australian Grand Prix,Lewis Hamilton,Mercedes,5,Albert Park Grand Prix Circuit,4,12.0
+Australian Grand Prix,George Russell,Mercedes,6,Albert Park Grand Prix Circuit,3,15.0
+Australian Grand Prix,Daniel Ricciardo,McLaren,7,Albert Park Grand Prix Circuit,6,8.0
+Australian Grand Prix,Esteban Ocon,Alpine F1 Team,8,Albert Park Grand Prix Circuit,7,6.0
+Australian Grand Prix,Carlos Sainz,Ferrari,9,Albert Park Grand Prix Circuit,20,0.0
+Australian Grand Prix,Fernando Alonso,Alpine F1 Team,10,Albert Park Grand Prix Circuit,17,0.0
+Australian Grand Prix,Pierre Gasly,AlphaTauri,11,Albert Park Grand Prix Circuit,9,2.0
+Australian Grand Prix,Valtteri Bottas,Alfa Romeo,12,Albert Park Grand Prix Circuit,8,4.0
+Australian Grand Prix,Yuki Tsunoda,AlphaTauri,13,Albert Park Grand Prix Circuit,15,0.0
+Australian Grand Prix,Guanyu Zhou,Alfa Romeo,14,Albert Park Grand Prix Circuit,11,0.0
+Australian Grand Prix,Mick Schumacher,Haas F1 Team,15,Albert Park Grand Prix Circuit,13,0.0
+Australian Grand Prix,Alexander Albon,Williams,16,Albert Park Grand Prix Circuit,10,1.0
+Australian Grand Prix,Kevin Magnussen,Haas F1 Team,17,Albert Park Grand Prix Circuit,14,0.0
+Australian Grand Prix,Sebastian Vettel,Aston Martin,18,Albert Park Grand Prix Circuit,19,0.0
+Australian Grand Prix,Nicholas Latifi,Williams,19,Albert Park Grand Prix Circuit,16,0.0
+Australian Grand Prix,Lance Stroll,Aston Martin,20,Albert Park Grand Prix Circuit,12,0.0
+Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,Autodromo Enzo e Dino Ferrari,1,26.0
+Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,2,Autodromo Enzo e Dino Ferrari,6,8.0
+Emilia Romagna Grand Prix,Lando Norris,McLaren,3,Autodromo Enzo e Dino Ferrari,3,15.0
+Emilia Romagna Grand Prix,Kevin Magnussen,Haas F1 Team,4,Autodromo Enzo e Dino Ferrari,9,2.0
+Emilia Romagna Grand Prix,Fernando Alonso,Alpine F1 Team,5,Autodromo Enzo e Dino Ferrari,19,0.0
+Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,6,Autodromo Enzo e Dino Ferrari,18,0.0
+Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,7,Autodromo Enzo e Dino Ferrari,2,18.0
+Emilia Romagna Grand Prix,Valtteri Bottas,Alfa Romeo,8,Autodromo Enzo e Dino Ferrari,5,10.0
+Emilia Romagna Grand Prix,Sebastian Vettel,Aston Martin,9,Autodromo Enzo e Dino Ferrari,8,4.0
+Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,10,Autodromo Enzo e Dino Ferrari,20,0.0
+Emilia Romagna Grand Prix,George Russell,Mercedes,11,Autodromo Enzo e Dino Ferrari,4,12.0
+Emilia Romagna Grand Prix,Mick Schumacher,Haas F1 Team,12,Autodromo Enzo e Dino Ferrari,17,0.0
+Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes,13,Autodromo Enzo e Dino Ferrari,13,0.0
+Emilia Romagna Grand Prix,Guanyu Zhou,Alfa Romeo,14,Autodromo Enzo e Dino Ferrari,15,0.0
+Emilia Romagna Grand Prix,Lance Stroll,Aston Martin,15,Autodromo Enzo e Dino Ferrari,10,1.0
+Emilia Romagna Grand Prix,Yuki Tsunoda,AlphaTauri,16,Autodromo Enzo e Dino Ferrari,7,6.0
+Emilia Romagna Grand Prix,Pierre Gasly,AlphaTauri,17,Autodromo Enzo e Dino Ferrari,12,0.0
+Emilia Romagna Grand Prix,Nicholas Latifi,Williams,18,Autodromo Enzo e Dino Ferrari,16,0.0
+Emilia Romagna Grand Prix,Esteban Ocon,Alpine F1 Team,19,Autodromo Enzo e Dino Ferrari,14,0.0
+Emilia Romagna Grand Prix,Alexander Albon,Williams,20,Autodromo Enzo e Dino Ferrari,11,0.0
+Miami Grand Prix,Charles Leclerc,Ferrari,1,Miami International Autodrome,2,18.0
+Miami Grand Prix,Carlos Sainz,Ferrari,2,Miami International Autodrome,3,15.0
+Miami Grand Prix,Max Verstappen,Red Bull,3,Miami International Autodrome,1,26.0
+Miami Grand Prix,Sergio Pérez,Red Bull,4,Miami International Autodrome,4,12.0
+Miami Grand Prix,Valtteri Bottas,Alfa Romeo,5,Miami International Autodrome,7,6.0
+Miami Grand Prix,Lewis Hamilton,Mercedes,6,Miami International Autodrome,6,8.0
+Miami Grand Prix,Pierre Gasly,AlphaTauri,7,Miami International Autodrome,18,0.0
+Miami Grand Prix,Lando Norris,McLaren,8,Miami International Autodrome,19,0.0
+Miami Grand Prix,Yuki Tsunoda,AlphaTauri,9,Miami International Autodrome,12,0.0
+Miami Grand Prix,Lance Stroll,Aston Martin,10,Miami International Autodrome,10,1.0
+Miami Grand Prix,Fernando Alonso,Alpine F1 Team,11,Miami International Autodrome,11,0.0
+Miami Grand Prix,George Russell,Mercedes,12,Miami International Autodrome,5,10.0
+Miami Grand Prix,Sebastian Vettel,Aston Martin,13,Miami International Autodrome,17,0.0
+Miami Grand Prix,Daniel Ricciardo,McLaren,14,Miami International Autodrome,13,0.0
+Miami Grand Prix,Mick Schumacher,Haas F1 Team,15,Miami International Autodrome,15,0.0
+Miami Grand Prix,Kevin Magnussen,Haas F1 Team,16,Miami International Autodrome,16,0.0
+Miami Grand Prix,Guanyu Zhou,Alfa Romeo,17,Miami International Autodrome,20,0.0
+Miami Grand Prix,Alexander Albon,Williams,18,Miami International Autodrome,9,2.0
+Miami Grand Prix,Nicholas Latifi,Williams,19,Miami International Autodrome,14,0.0
+Miami Grand Prix,Esteban Ocon,Alpine F1 Team,20,Miami International Autodrome,8,4.0
